@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "lasmanknia.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "lasmanknia.github",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "description": "A meal System",
+  "categories": [
+    "education"
+  ]
+}
