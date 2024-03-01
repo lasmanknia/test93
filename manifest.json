@@ -1,15 +1,1 @@
-{
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "lasmanknia.github",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "lasmanknia.github",
-  "start_url": "/index.html",
-  "theme_color": "#ffffff",
-  "description": "A meal System",
-  "categories": [
-    "education"
-  ]
-}
+{"theme_color":"#fafafa","background_color":"#f9fafb","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-US","name":"ThreeA","short_name":"ThreeA","start_url":"https://lasmanknia.github.io/test93/","scope":"https://lasmanknia.github.io/test93/","id":"https://lasmanknia.github.io/test93/"}
